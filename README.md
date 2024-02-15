@@ -3,7 +3,7 @@
 - 🔭 I'm currently working on myself project
 - 🎓 And i'am the main developer of the project
 - 🥇 Programming languages ​​that I know good
-- [2 Years] Python (GTANETWORK, .NET FRAMEWORK)
+- [2 Years] Python (Disnake and more)
 - [1 Years] MySQL (MariaDB, PostgresSQL)
 - ✨Or simply, middle software enginner
 - - 📫 How to reach me Discord: @menstrualz

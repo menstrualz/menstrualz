@@ -5,5 +5,4 @@
 - 🥇 Programming languages ​​that I know good
 - [2 Years] Python (Disnake and more)
 - [1 Years] MySQL (MariaDB, PostgresSQL)
-- ✨Or simply, middle software enginner
 - - 📫 How to reach me Discord: @menstrualz

@@ -4,5 +4,5 @@
 - 🎓 And i'am the main developer of the project
 - 🥇 Programming languages ​​that I know good
 - [2 Years] Python (Disnake and more)
-- [1 Years] MySQL (MariaDB, PostgresSQL)
+- [1 Years] SQL (MariaDB, MySQL)
 - 📫 How to reach me Discord: @menstrualz
